@@ -1,0 +1,12 @@
+.footer {
+    background-color: #414143;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-titre {
+    margin: 0;
+    font-size: 2rem;
+}
+
